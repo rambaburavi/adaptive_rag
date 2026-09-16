@@ -1,0 +1,6 @@
+{
+  "title": "Video Super Resolution",
+  "pageid": 68639889,
+  "url": "https://en.wikipedia.org/wiki/Video_Super_Resolution",
+  "text": "RTX Video Super Resolution (RTX VSR) is a video scaling feature by Nvidia. It was released on February 28, 2023. History The feature was first unveiled during CES 2023 as RTX Video Super Resolution. It uses the on-board Tensor Cores to upscale browser video content in real time. Video Super Resolution was initially only available on RTX 30 and 40 series GPUs, while support for 20 series GPUs was added afterwards; it is now available on all Nvidia RTX-branded GPUs. The feature supports input resolutions from 360p to 1440p and a max output of 4K and comes without support for HDR content although that could be likely added in the future. Nvidia released RTX Video Super Resolution 1.5 with improved video quality and RTX 20 series support on October 17, 2023. Reception According to ComputerBase, although \"the algorithm is not yet working flawlessly\", the feature is \"overall recommendable\". References External links Pixel Perfect: RTX Video Super Resolution Now Available for GeForce RTX 40 and 30 Series GPUs (Nvidia blog article) NVIDIA RTX Video Super Resolution Update Enhances Video Quality, Detail Preservation and Expands to GeForce RTX 20 Series GPUs (Nvidia blog article)"
+}

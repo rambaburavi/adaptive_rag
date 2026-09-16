@@ -1,0 +1,16 @@
+query_number,query,expected_label,chosen_action,selected_arm,complexity_score,reward,cumulative_reward,cumulative_average_reward,rolling_reward_3,latency_seconds,answer_quality,faithfulness,retrieval_precision,status
+1,What is artificial intelligence?,simple,answer_directly,0,0.0,0.9714,0.9714,0.9714,0.9714,0.8328,0.9643,,,success
+2,What is machine learning?,simple,answer_directly,0,0.0,0.965,1.9364,0.9682,0.9682,0.6238,0.9563,,,success
+3,What is deep learning?,simple,answer_directly,0,0.0,0.9403,2.8767,0.9589,0.9589,0.3384,0.9254,,,success
+4,What is a neural network?,simple,answer_directly,0,0.0,0.9706,3.8473,0.961825,0.9586333333333333,0.6024,0.9632,,,success
+5,What is an artificial neuron?,simple,answer_directly,0,0.0,0.9838,4.8311,0.9662200000000001,0.9649000000000001,0.7015,0.9797,,,success
+6,How are neural networks related to deep learning and artificial intelligence?,multi-hop,answer_directly,0,0.48,0.9287,5.7598,0.9599666666666667,0.9610333333333333,0.9025,0.9109,,,success
+7,How does deep learning fit within machine learning and artificial intelligence?,multi-hop,answer_directly,0,0.48,0.9226,6.6824,0.9546285714285715,0.9450333333333333,1.146,0.9032,,,success
+8,How does backpropagation help neural networks learn?,multi-hop,answer_directly,0,0.4,0.9454,7.6278,0.9534750000000001,0.9322333333333334,0.7647,0.9317,,,success
+9,How are artificial neurons related to biological neurons?,multi-hop,answer_directly,0,0.4,0.8926,8.5204,0.9467111111111112,0.9202,1.0169,0.8657,,,success
+10,How do neural networks contribute to modern artificial intelligence?,multi-hop,answer_directly,0,0.16,0.8716,9.392,0.9392000000000001,0.9032,0.8097,0.8395,,,success
+11,How are machine learning and deep learning different?,comparison,answer_directly,0,0.75,0.9106,10.3026,0.9366000000000002,0.8916000000000001,1.2117,0.8882,,,success
+12,Compare artificial intelligence and machine learning.,comparison,retrieve,1,0.35,0.4573,10.7599,0.8966583333333334,0.7465,8.3978,0.8748,0.288,0.1446,success
+13,Compare deep learning and artificial intelligence.,comparison,retrieve,1,0.35,0.6757,11.4356,0.8796615384615385,0.6812,1.8648,0.858,0.7254,0.1406,success
+14,Compare neural networks and deep learning.,comparison,retrieve,1,0.35,0.714,12.1496,0.8678285714285715,0.6156666666666667,1.6312,0.9099,0.7994,0.1064,success
+15,Compare supervised and unsupervised learning.,comparison,retrieve,1,0.35,0.4827,12.6323,0.8421533333333334,0.6241333333333333,1.4471,0.8771,0.2718,0.0543,success

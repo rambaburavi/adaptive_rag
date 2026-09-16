@@ -1,0 +1,6 @@
+{
+  "title": "Limited Memory AI",
+  "pageid": 83100112,
+  "url": "https://en.wikipedia.org/wiki/Limited_Memory_AI",
+  "text": "Limited Memory AI is a type of artificial intelligence that uses past data and experiences for a short period of time to make decisions or predictions. Unlike reactive AI systems, which respond only to current inputs, limited memory AI can temporarily store information and learn from recent observations. Most modern artificial intelligence systems are considered limited memory AI. Examples Examples include self-driving cars, recommendation systems, fraud detection tools, and conversational chatbots. These systems analyze historical data, recognize patterns, and improve responses based on recent interactions. Usage Limited memory AI usually works through machine learning models such as neural networks, recurrent neural networks (RNNs), and long short-term memory (LSTM) systems. The stored information is generally temporary and is replaced or updated as new data becomes available. Applications Autonomous vehicles Recommendation engines Virtual assistants and chatbots Fraud detection systems Facial recognition systems See also Artificial intelligence Machine learning Neural network == References =="
+}
