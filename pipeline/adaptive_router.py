@@ -1,4 +1,4 @@
-from feature_extractor import extract_features
+from .feature_extractor import extract_features
 
 def adaptive_route(query: str) -> tuple[str, dict]:
     """

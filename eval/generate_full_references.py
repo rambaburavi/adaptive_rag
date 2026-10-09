@@ -103,9 +103,9 @@ def generate_reference(
 ):
 
     documents, metadatas, distances = retrieve_documents(
-        query,
-        top_k=5,
-    )
+    query,
+    top_k=10,
+)
 
     if not documents:
         return ""

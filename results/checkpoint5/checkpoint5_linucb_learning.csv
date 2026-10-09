@@ -1,0 +1,201 @@
+query_number,query,category,action,reward,cumulative_reward,rolling_reward_20
+1,What is artificial intelligence?,simple,answer_directly,0.9279,0.9279,0.9279
+2,What is machine learning?,simple,answer_directly,0.9156,1.8435,0.92175
+3,What is deep learning?,simple,answer_directly,0.9256,2.7691,0.9230333333333333
+4,What is a neural network?,simple,answer_directly,0.9569,3.726,0.9315
+5,What is an artificial neuron?,simple,answer_directly,0.9868,4.7128,0.94256
+6,What is supervised learning?,simple,answer_directly,0.9401,5.6529,0.9421499999999999
+7,What is unsupervised learning?,simple,answer_directly,0.9745,6.6274,0.9467714285714285
+8,What is reinforcement learning?,simple,answer_directly,0.9226,7.55,0.94375
+9,What is semi-supervised learning?,simple,answer_directly,0.9779,8.527899999999999,0.9475444444444445
+10,What is data annotation?,simple,answer_directly,0.9784,9.5063,0.95063
+11,What is a decision tree?,simple,answer_directly,0.973,10.4793,0.9526636363636364
+12,What is a random forest?,simple,answer_directly,0.9589,11.4382,0.9531833333333334
+13,What is a support vector machine?,simple,answer_directly,0.9733,12.4115,0.9547307692307693
+14,What is linear regression?,simple,answer_directly,0.8955,13.307,0.9505
+15,What is logistic regression?,simple,answer_directly,0.8686,14.175600000000001,0.94504
+16,What is clustering?,simple,answer_directly,0.9536,15.1292,0.945575
+17,What is k-means clustering?,simple,answer_directly,0.8956,16.0248,0.942635294117647
+18,What is natural language processing?,simple,answer_directly,0.9042,16.929,0.9404999999999999
+19,What is computer vision?,simple,answer_directly,0.9497,17.8787,0.9409842105263158
+20,What is speech recognition?,simple,answer_directly,0.9595,18.838199999999997,0.94191
+21,What is image classification?,simple,answer_directly,0.9604,19.798599999999997,0.943535
+22,What is object detection?,simple,answer_directly,0.9667,20.765299999999996,0.9460900000000001
+23,What is pattern recognition?,simple,answer_directly,0.911,21.676299999999998,0.9453600000000002
+24,What is feature engineering?,simple,answer_directly,0.9615,22.6378,0.9455899999999999
+25,What is representation learning?,simple,answer_directly,0.9812,23.619,0.9453099999999999
+26,What is transfer learning?,simple,answer_directly,0.9591,24.5781,0.94626
+27,What is backpropagation?,simple,answer_directly,0.9608,25.538899999999998,0.9455749999999998
+28,What is gradient descent?,simple,answer_directly,0.9549,26.493799999999997,0.94719
+29,What is feature learning?,simple,answer_directly,0.9201,27.413899999999998,0.9443000000000001
+30,What is a loss function?,simple,answer_directly,0.9514,28.365299999999998,0.9429500000000001
+31,What is overfitting?,simple,answer_directly,0.9167,29.281999999999996,0.940135
+32,What is underfitting?,simple,answer_directly,0.9535,30.235499999999995,0.939865
+33,What is generalization in machine learning?,simple,answer_directly,0.949,31.184499999999996,0.93865
+34,What is cross-validation?,simple,answer_directly,0.939,32.12349999999999,0.940825
+35,What is a training set?,simple,answer_directly,0.9459,33.069399999999995,0.9446899999999999
+36,What is a test set?,simple,answer_directly,0.9617,34.031099999999995,0.9450949999999999
+37,What is a validation set?,simple,answer_directly,0.9814,35.012499999999996,0.949385
+38,What is a hyperparameter?,simple,answer_directly,0.9526,35.96509999999999,0.951805
+39,What is model evaluation?,simple,answer_directly,0.8949,36.85999999999999,0.949065
+40,What is classification in machine learning?,simple,answer_directly,0.929,37.788999999999994,0.94754
+41,What is regression in machine learning?,simple,answer_directly,0.9795,38.768499999999996,0.948495
+42,What is dimensionality reduction?,simple,answer_directly,0.9472,39.7157,0.9475200000000001
+43,What is principal component analysis?,simple,answer_directly,0.9632,40.6789,0.9501299999999999
+44,What is an ensemble method?,simple,answer_directly,0.9684,41.6473,0.9504750000000002
+45,What is boosting?,simple,answer_directly,0.9397,42.587,0.9484
+46,What is bagging?,simple,answer_directly,0.9806,43.567600000000006,0.949475
+47,What is a convolutional neural network?,simple,answer_directly,0.8999,44.46750000000001,0.9464300000000001
+48,What is a recurrent neural network?,simple,answer_directly,0.968,45.435500000000005,0.9470850000000001
+49,What is a transformer model?,simple,answer_directly,0.9327,46.3682,0.947715
+50,What is empirical risk minimization?,simple,answer_directly,0.8952,47.263400000000004,0.944905
+51,What is generative artificial intelligence?,simple,answer_directly,0.9551,48.218500000000006,0.9468249999999999
+52,What is a generative adversarial network?,simple,answer_directly,0.9707,49.18920000000001,0.9476850000000001
+53,What is an autoencoder?,simple,answer_directly,0.8476,50.03680000000001,0.942615
+54,What is an embedding in machine learning?,simple,answer_directly,0.9715,51.008300000000006,0.94424
+55,What is a language model?,simple,answer_directly,0.9127,51.92100000000001,0.9425800000000001
+56,What is a large language model?,simple,answer_directly,0.9298,52.85080000000001,0.9409850000000001
+57,What is knowledge representation?,simple,answer_directly,0.961,53.811800000000005,0.9399650000000002
+58,What is an expert system?,simple,answer_directly,0.9686,54.78040000000001,0.9407650000000001
+59,What is symbolic artificial intelligence?,simple,answer_directly,0.8695,55.64990000000001,0.939495
+60,What is computational intelligence?,simple,answer_directly,0.907,56.55690000000001,0.9383949999999999
+61,What is robotics?,simple,answer_directly,0.943,57.49990000000001,0.93657
+62,What is autonomous learning?,simple,answer_directly,0.9334,58.43330000000001,0.9358799999999998
+63,What is anomaly detection?,simple,answer_directly,0.9636,59.39690000000001,0.9359
+64,What is recommendation?,simple,answer_directly,0.893,60.28990000000001,0.9321299999999999
+65,What is reinforcement learning from human feedback?,simple,answer_directly,0.9529,61.24280000000001,0.93279
+66,What is natural language generation?,simple,answer_directly,0.8863,62.12910000000001,0.9280750000000001
+67,What is information retrieval?,simple,answer_directly,0.921,63.05010000000001,0.92913
+68,What is semantic similarity?,simple,answer_directly,0.9402,63.990300000000005,0.92774
+69,What is tokenization?,simple,answer_directly,0.9262,64.9165,0.9274149999999999
+70,What is a corpus in natural language processing?,simple,answer_directly,0.9355,65.852,0.92943
+71,What is a knowledge graph?,simple,answer_directly,0.9782,66.8302,0.9305850000000001
+72,What is an algorithm?,simple,answer_directly,0.9093,67.7395,0.927515
+73,What is computational learning theory?,simple,answer_directly,0.9415,68.68100000000001,0.9322100000000001
+74,What is artificial general intelligence?,simple,answer_directly,0.9506,69.6316,0.931165
+75,What is machine intelligence?,simple,answer_directly,0.9087,70.5403,0.9309649999999999
+76,What is pattern recognition used for?,simple,answer_directly,0.9265,71.4668,0.9308
+77,What is deep reinforcement learning?,simple,answer_directly,0.9342,72.40100000000001,0.9294600000000001
+78,What is an artificial neural network used for?,simple,answer_directly,0.8766,73.2776,0.92486
+79,What is machine vision?,simple,answer_directly,0.977,74.25460000000001,0.930235
+80,What is intelligent agent?,simple,answer_directly,0.9639,75.2185,0.93308
+81,How are neural networks related to deep learning and artificial intelligence?,multi-hop,retrieve,0.7238,75.9423,0.9221199999999999
+82,How does deep learning fit within machine learning and artificial intelligence?,multi-hop,decompose,0.5001,76.4424,0.900455
+83,How does backpropagation help neural networks learn?,multi-hop,retrieve,0.4894,76.93180000000001,0.876745
+84,How are artificial neurons related to biological neurons?,multi-hop,answer_directly,0.769,77.70080000000002,0.8705450000000001
+85,How do neural networks contribute to modern artificial intelligence?,multi-hop,answer_directly,0.9246,78.62540000000001,0.86913
+86,How does deep learning use neural networks?,multi-hop,answer_directly,0.9362,79.56160000000001,0.8716249999999999
+87,How does machine learning fit within artificial intelligence?,multi-hop,answer_directly,0.9534,80.51500000000001,0.873245
+88,How does reinforcement learning fit within artificial intelligence?,multi-hop,answer_directly,0.949,81.46400000000001,0.8736849999999998
+89,How are supervised learning and neural networks connected?,multi-hop,answer_directly,0.9653,82.42930000000001,0.8756400000000001
+90,How does unsupervised learning use clustering?,multi-hop,answer_directly,0.9372,83.36650000000002,0.8757249999999999
+91,How does deep learning improve computer vision?,multi-hop,answer_directly,0.9185,84.28500000000001,0.87274
+92,How does deep learning contribute to natural language processing?,multi-hop,answer_directly,0.9187,85.20370000000001,0.87321
+93,How do convolutional neural networks support computer vision?,multi-hop,answer_directly,0.9267,86.13040000000001,0.8724699999999999
+94,How do recurrent neural networks process sequential information?,multi-hop,answer_directly,0.8421,86.97250000000001,0.8670450000000001
+95,How does attention contribute to transformer models?,multi-hop,answer_directly,0.9434,87.91590000000001,0.8687800000000001
+96,How are transformers used in natural language processing?,multi-hop,answer_directly,0.9272,88.8431,0.868815
+97,How do embeddings help language models?,multi-hop,answer_directly,0.887,89.73010000000001,0.866455
+98,How does a neural network use an activation function during learning?,multi-hop,answer_directly,0.9293,90.6594,0.8690900000000001
+99,How do loss functions and gradient descent work together during model training?,multi-hop,answer_directly,0.8996,91.55900000000001,0.8652200000000001
+100,How does overfitting affect the performance of a machine learning model on unseen data?,multi-hop,answer_directly,0.9699,92.52890000000001,0.8655200000000001
+101,How does transfer learning help deep learning models?,multi-hop,decompose,0.3935,92.92240000000001,0.849005
+102,How does representation learning reduce the need for manual feature engineering?,multi-hop,answer_directly,0.934,93.85640000000001,0.8707
+103,How does regularization help prevent overfitting?,multi-hop,answer_directly,0.9406,94.79700000000001,0.89326
+104,How does cross-validation help evaluate machine learning models?,multi-hop,answer_directly,0.9182,95.71520000000001,0.90072
+105,How do training and test sets contribute to model evaluation?,multi-hop,answer_directly,0.8398,96.555,0.89648
+106,How do hyperparameters affect machine learning models?,multi-hop,answer_directly,0.9258,97.4808,0.89596
+107,How does gradient descent help optimize neural networks?,multi-hop,retrieve,0.4733,97.9541,0.871955
+108,How does a loss function guide model training?,multi-hop,answer_directly,0.9138,98.86789999999999,0.870195
+109,How are decision trees used for classification?,multi-hop,answer_directly,0.8882,99.75609999999999,0.8663399999999999
+110,How does a random forest build on decision trees?,multi-hop,answer_directly,0.9372,100.6933,0.8663400000000001
+111,How does clustering support unsupervised learning?,multi-hop,answer_directly,0.9293,101.62259999999999,0.8668799999999999
+112,How does bagging improve ensemble learning?,multi-hop,answer_directly,0.9433,102.56589999999998,0.8681099999999999
+113,How does principal component analysis reduce dimensionality?,multi-hop,answer_directly,0.925,103.49089999999998,0.8680249999999999
+114,How does dimensionality reduction affect machine learning?,multi-hop,answer_directly,0.9021,104.39299999999999,0.871025
+115,How does data annotation support machine learning?,multi-hop,answer_directly,0.9314,105.32439999999998,0.870425
+116,How is anomaly detection related to machine learning?,multi-hop,answer_directly,0.947,106.27139999999999,0.871415
+117,How do recommender systems use machine learning?,multi-hop,answer_directly,0.9195,107.19089999999998,0.8730399999999999
+118,How do expert systems relate to symbolic artificial intelligence?,multi-hop,answer_directly,0.9582,108.14909999999999,0.874485
+119,How does knowledge representation support artificial intelligence?,multi-hop,answer_directly,0.8944,109.0435,0.8742249999999998
+120,How do knowledge graphs support knowledge representation?,multi-hop,answer_directly,0.9363,109.9798,0.872545
+121,How does information retrieval relate to natural language processing?,multi-hop,answer_directly,0.929,110.9088,0.89932
+122,How does feature learning support machine learning?,multi-hop,answer_directly,0.923,111.8318,0.8987700000000001
+123,How does a corpus support natural language processing?,multi-hop,answer_directly,0.925,112.7568,0.8979899999999998
+124,How does natural language generation relate to language models?,multi-hop,answer_directly,0.9487,113.7055,0.8995150000000001
+125,How does generative AI depend on deep learning?,multi-hop,answer_directly,0.9238,114.6293,0.903715
+126,How do generative adversarial networks generate data?,multi-hop,answer_directly,0.939,115.5683,0.9043750000000002
+127,How do autoencoders learn useful representations?,multi-hop,answer_directly,0.9003,116.4686,0.9257249999999999
+128,How does reinforcement learning use rewards to learn?,multi-hop,answer_directly,0.938,117.4066,0.9269350000000001
+129,How does deep reinforcement learning combine reinforcement learning and neural networks?,multi-hop,answer_directly,0.9301,118.3367,0.92903
+130,How does reinforcement learning from human feedback use human preferences?,multi-hop,answer_directly,0.9194,119.25609999999999,0.92814
+131,How are intelligent agents connected to artificial intelligence?,multi-hop,answer_directly,0.9749,120.231,0.93042
+132,How does robotics use artificial intelligence?,multi-hop,answer_directly,0.9302,121.1612,0.9297650000000001
+133,How does machine vision differ from and relate to computer vision?,multi-hop,answer_directly,0.8614,122.0226,0.926585
+134,How does speech recognition use machine learning?,multi-hop,answer_directly,0.9469,122.9695,0.928825
+135,How does image classification relate to computer vision?,multi-hop,answer_directly,0.9269,123.8964,0.9286
+136,How does object detection build on image understanding?,multi-hop,answer_directly,0.9153,124.8117,0.9270149999999999
+137,How does semantic similarity help information retrieval?,multi-hop,answer_directly,0.905,125.7167,0.9262900000000001
+138,How do embeddings help measure semantic similarity?,multi-hop,answer_directly,0.9457,126.6624,0.9256649999999998
+139,How are machine intelligence and artificial intelligence related?,multi-hop,answer_directly,0.9666,127.629,0.9292750000000002
+140,How does computational learning theory relate to machine learning?,multi-hop,answer_directly,0.924,128.553,0.92866
+141,How does artificial general intelligence differ conceptually from narrow AI?,multi-hop,retrieve,0.5151,129.0681,0.9079650000000001
+142,How does self-supervised learning create training signals from data?,multi-hop,answer_directly,0.83,129.8981,0.9033149999999999
+143,How does semi-supervised learning combine labeled and unlabeled data?,multi-hop,answer_directly,0.9093,130.8074,0.9025300000000002
+144,How does autonomous learning relate to machine learning?,multi-hop,answer_directly,0.9856,131.793,0.9043749999999999
+145,How do classification and regression represent different machine learning tasks?,multi-hop,decompose,0.4344,132.22740000000002,0.8799049999999999
+146,How does linear regression learn a relationship from data?,multi-hop,answer_directly,0.9204,133.14780000000002,0.878975
+147,How does logistic regression perform classification?,multi-hop,answer_directly,0.8552,134.00300000000001,0.87672
+148,How does support vector machine classification work?,multi-hop,answer_directly,0.9099,134.9129,0.875315
+149,How are pattern recognition and machine learning connected?,multi-hop,answer_directly,0.9492,135.8621,0.8762699999999999
+150,How does computational intelligence complement traditional artificial intelligence?,multi-hop,answer_directly,0.8801,136.7422,0.874305
+151,How are machine learning and deep learning different?,comparison,answer_directly,0.9037,137.64589999999998,0.8707450000000001
+152,Compare artificial intelligence and machine learning.,comparison,decompose,0.4285,138.0744,0.84566
+153,Compare deep learning and artificial intelligence.,comparison,decompose,0.4998,138.5742,0.82758
+154,Compare neural networks and deep learning.,comparison,decompose,0.684,139.2582,0.8144349999999999
+155,Compare supervised and unsupervised learning.,comparison,decompose,0.3903,139.64849999999998,0.787605
+156,Compare supervised learning and reinforcement learning.,comparison,retrieve,0.658,140.30649999999997,0.77474
+157,Compare unsupervised learning and reinforcement learning.,comparison,retrieve,0.4777,140.78419999999997,0.753375
+158,Compare machine learning and reinforcement learning.,comparison,retrieve,0.7273,141.51149999999998,0.742455
+159,Compare decision trees and random forests.,comparison,retrieve,0.6579,142.1694,0.72702
+160,Compare random forests and boosting.,comparison,retrieve,0.5627,142.7321,0.708955
+161,Compare bagging and boosting.,comparison,retrieve,0.5237,143.2558,0.709385
+162,Compare linear regression and logistic regression.,comparison,decompose,0.3701,143.6259,0.6863900000000001
+163,Compare classification and regression.,comparison,retrieve,0.4609,144.0868,0.6639700000000001
+164,Compare clustering and classification.,comparison,decompose,0.5632,144.65,0.64285
+165,Compare support vector machines and decision trees.,comparison,retrieve,0.6742,145.32420000000002,0.65484
+166,Compare convolutional and recurrent neural networks.,comparison,retrieve,0.6959,146.0201,0.6436149999999999
+167,Compare convolutional neural networks and traditional neural networks.,comparison,retrieve,0.6896,146.70970000000003,0.635335
+168,Compare recurrent neural networks and transformer models.,comparison,retrieve,0.7055,147.41520000000003,0.625115
+169,Compare transformers and recurrent neural networks for sequence processing.,comparison,retrieve,0.6823,148.09750000000003,0.61177
+170,Compare attention mechanisms and recurrent neural networks.,comparison,retrieve,0.4615,148.55900000000003,0.5908399999999999
+171,Compare neural networks and decision trees.,comparison,retrieve,0.6407,149.19970000000004,0.57769
+172,Compare biological neurons and artificial neurons.,comparison,retrieve,0.5112,149.71090000000004,0.581825
+173,Compare traditional machine learning and deep learning in terms of feature engineering.,comparison,retrieve,0.667,150.37790000000004,0.5901850000000001
+174,How does anomaly detection relate to machine learning?,comparison,answer_directly,0.9519,151.32980000000003,0.60358
+175,Compare traditional machine learning and deep learning in terms of model complexity.,comparison,retrieve,0.4894,151.81920000000002,0.608535
+176,Compare supervised learning and semi-supervised learning.,comparison,decompose,0.4373,152.25650000000002,0.5975
+177,Compare semi-supervised and self-supervised learning.,comparison,retrieve,0.4772,152.73370000000003,0.597475
+178,Compare self-supervised and supervised learning.,comparison,decompose,0.3665,153.10020000000003,0.5794349999999999
+179,Compare reinforcement learning and supervised learning in terms of feedback.,comparison,retrieve,0.0549,153.15510000000003,0.549285
+180,Compare representation learning and feature engineering.,comparison,decompose,0.3965,153.55160000000004,0.5409750000000001
+181,Compare regularization and cross-validation.,comparison,retrieve,0.5959,154.14750000000004,0.544585
+182,"Compare training, validation, and test sets.",comparison,retrieve,0.4621,154.60960000000003,0.549185
+183,How does dimensionality reduction support machine learning?,comparison,answer_directly,0.9174,155.52700000000002,0.5720099999999999
+184,Compare gradient descent and backpropagation.,comparison,retrieve,0.4419,155.96890000000002,0.5659449999999999
+185,Compare loss functions and evaluation metrics.,comparison,decompose,0.3687,156.3376,0.55067
+186,Compare dimensionality reduction and feature selection.,comparison,retrieve,0.5129,156.8505,0.54152
+187,Compare principal component analysis and clustering.,comparison,retrieve,0.6652,157.5157,0.5403
+188,Compare generative AI and traditional machine learning.,comparison,retrieve,0.3728,157.88850000000002,0.523665
+189,Compare generative adversarial networks and autoencoders.,comparison,retrieve,0.65,158.53850000000003,0.52205
+190,Compare language models and knowledge graphs.,comparison,retrieve,0.4796,159.01810000000003,0.5229550000000001
+191,Compare symbolic AI and machine learning.,comparison,retrieve,0.4456,159.46370000000005,0.5132
+192,Compare expert systems and neural networks.,comparison,decompose,0.3823,159.84600000000003,0.506755
+193,Compare knowledge representation and knowledge graphs.,comparison,retrieve,0.4857,160.33170000000004,0.49768999999999997
+194,Compare natural language processing and computer vision.,comparison,retrieve,0.4874,160.81910000000005,0.474465
+195,Compare speech recognition and natural language processing.,comparison,retrieve,0.6837,161.50280000000004,0.48418
+196,Compare image classification and object detection.,comparison,retrieve,0.4851,161.98790000000002,0.48656999999999995
+197,Compare machine vision and computer vision.,comparison,retrieve,0.6073,162.59520000000003,0.493075
+198,Compare information retrieval and natural language processing.,comparison,retrieve,0.662,163.25720000000004,0.50785
+199,Compare tokenization and embeddings in language processing.,comparison,retrieve,0.4803,163.73750000000004,0.52912
+200,Compare semantic similarity and keyword matching.,comparison,decompose,0.6252,164.36270000000005,0.540555
