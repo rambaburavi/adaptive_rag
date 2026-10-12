@@ -568,7 +568,6 @@ These findings motivate further study of adaptive RAG routing, but they do not y
 
 This project uses open-source software and pretrained models, including Sentence Transformers, ChromaDB, Transformers, SciPy, NumPy, Pandas, and Matplotlib, together with a Groq-hosted language model.
 
-Please refer to the respective projects and model cards for their licensing, citation, and usage requirements.
 
 ## License
 
